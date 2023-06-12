@@ -1,0 +1,8 @@
+momo
+123
+Within the vi editor, the sequence would be:
+vi <File>
+Shift/g - to go to the last line
+yy - to yank the current line in to the buffer
+p - to put the buffer after the current line
+p - to put the buffer after the current line
